@@ -2,6 +2,7 @@ name: emcpay
 favicon: null
 layout_spectrum: 0.6409231631550938
 typography_spectrum: 0.7863757275044918
+title: Electronic / Mobile / Cloud / Payments
 cta:
   domain: null
   bucket: null
