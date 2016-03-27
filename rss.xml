@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Electronic / Mobile / Cloud / Payments]]></title>
+        <description><![CDATA[Electronic / Mobile / Cloud / Payments]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 27 Mar 2016 05:28:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>e-lectronic / mobile / cloud / payments</p>]]></description>
+            <link>undefined869c6402-5cf0-42b0-8bc4-6dd505997791/index.html</link>
+            <guid isPermaLink="false">869c6402-5cf0-42b0-8bc4-6dd505997791</guid>
+            <pubDate>Sun, 27 Mar 2016 05:28:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
