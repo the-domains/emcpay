@@ -1,0 +1,28 @@
+name: emcpay
+favicon: null
+layout_spectrum: 0.6409231631550938
+typography_spectrum: 0.7863757275044918
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.27767747500911355
+  lightness: 0.5015960542950779
+  saturation: 0.6884529164526612
+  rhythmicContrast: 0.8201856282539666
+purpose: []
